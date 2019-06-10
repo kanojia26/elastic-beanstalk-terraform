@@ -1,0 +1,10 @@
+Deploy Elastic beanstalk in multi-env using terraform.
+I'm using Terraform to create an Elastic Beanstalk Java Application for dev and stage environment.
+
+This guide is targeted at AWS and Terraform buddies. We'll walk you through the entire process, step-by-step:
+Install Terraform
+Terraform backend state configuration
+Create terraform workspace
+Use Input variable in multi workspace
+Deploy Elastic Beanstalk App
+Destroy Elastic Beanstalk App
